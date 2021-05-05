@@ -1,4 +1,4 @@
 class scrambler():
-    def helo():
-        print("helo")
+    def helo(filename):
+        
 
