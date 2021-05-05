@@ -20,7 +20,7 @@ def arg_proc_engine():
     
     args = parser.parse_args()
     filename = args.img_ogi
-    scrambler.helo(filename)
+    scrambler.random(filename)
 
     
        
